@@ -6,7 +6,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### About
 
-Tenth exercice from Frontend Mentor website. The purpose is to train to fondamentals web languages.
+Eleventh exercice from Frontend Mentor website. The purpose is to train to fondamentals web languages.
 
 **HTML, CSS**
 
